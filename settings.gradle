@@ -1,0 +1,2 @@
+rootProject.name='CanvasPlayGround'
+include ':app'
